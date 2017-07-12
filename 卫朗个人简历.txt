@@ -1,0 +1,36 @@
+D:\Java\jdk\bin\java -ea -Didea.launcher.port=7532 -Didea.launcher.bin.path=D:\idea2\bin -Didea.junit.sm_runner -Dfile.encoding=UTF-8 -classpath D:\idea2\lib\idea_rt.jar;D:\idea2\plugins\junit\lib\junit-rt.jar;D:\Java\jdk\jre\lib\charsets.jar;D:\Java\jdk\jre\lib\deploy.jar;D:\Java\jdk\jre\lib\ext\access-bridge-64.jar;D:\Java\jdk\jre\lib\ext\cldrdata.jar;D:\Java\jdk\jre\lib\ext\dnsns.jar;D:\Java\jdk\jre\lib\ext\jaccess.jar;D:\Java\jdk\jre\lib\ext\jfxrt.jar;D:\Java\jdk\jre\lib\ext\localedata.jar;D:\Java\jdk\jre\lib\ext\nashorn.jar;D:\Java\jdk\jre\lib\ext\sunec.jar;D:\Java\jdk\jre\lib\ext\sunjce_provider.jar;D:\Java\jdk\jre\lib\ext\sunmscapi.jar;D:\Java\jdk\jre\lib\ext\sunpkcs11.jar;D:\Java\jdk\jre\lib\ext\zipfs.jar;D:\Java\jdk\jre\lib\javaws.jar;D:\Java\jdk\jre\lib\jce.jar;D:\Java\jdk\jre\lib\jfr.jar;D:\Java\jdk\jre\lib\jfxswt.jar;D:\Java\jdk\jre\lib\jsse.jar;D:\Java\jdk\jre\lib\management-agent.jar;D:\Java\jdk\jre\lib\plugin.jar;D:\Java\jdk\jre\lib\resources.jar;D:\Java\jdk\jre\lib\rt.jar;D:\project\lvyou_user\target\test-classes;D:\project\lvyou_user\target\classes;D:\dev\maven\.m2\org\springframework\spring-webmvc\4.3.8.RELEASE\spring-webmvc-4.3.8.RELEASE.jar;D:\dev\maven\.m2\org\springframework\spring-aop\4.3.8.RELEASE\spring-aop-4.3.8.RELEASE.jar;D:\dev\maven\.m2\org\springframework\spring-beans\4.3.8.RELEASE\spring-beans-4.3.8.RELEASE.jar;D:\dev\maven\.m2\org\springframework\spring-core\4.3.8.RELEASE\spring-core-4.3.8.RELEASE.jar;D:\dev\maven\.m2\org\springframework\spring-context\4.3.8.RELEASE\spring-context-4.3.8.RELEASE.jar;D:\dev\maven\.m2\org\springframework\spring-expression\4.3.8.RELEASE\spring-expression-4.3.8.RELEASE.jar;D:\dev\maven\.m2\commons-logging控制台输出结果：
+
+姓名：卫朗
+性别：男
+年龄：1993-01-10
+工作地点：上海
+电话：13437271171
+邮箱：a2413478071@163.com
+
+专业技能：
+1、熟悉mysql，oracle，redis等数据库，tomcat web服务器的使用；
+2、熟悉JavaScript，jquery，HTML，css，jstl，Ajax，Bootstrap等web前端技术；
+3、熟练Spring，SpringMVC，mybatis，hibernate，Structs2等框架；
+4、熟练掌握java基础，具有面向对象编程开发思想；
+5、熟练掌握J2EE应用服务开发，mvc开发模式；
+6、熟练掌握eclipse，tst，idea，HBuilder等开发工具的使用；
+7、熟悉apache集群服务器，了解Java分布式开发；
+8、熟练maven构建工具，svn版本控制工具的使用；
+9、掌握项目在Windows上的部署，熟悉Linux上的部署，熟悉基本Linux命令；
+10、熟悉webservice通讯技术，了解easyui；
+
+工作经验：
+上海茁云科技服务有限公司：工作时间：1年3月4天
+
+教育经历:
+2012年9月-2016年6月         湖北银河信息技术学院      网络安全全科
+2014年3月-至今              华中农业大学             信息管理与信息系统
+
+自我评价:
+本人性格沉稳开朗，乐观向上
+学习能力强，新事物上手快，适应性强
+喜欢研究新的知识和技术，乐于学习新知识
+具有良好的团队协作能力
+
+
+Process finished with exit code 0
