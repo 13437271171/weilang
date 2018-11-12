@@ -1,2 +1,0 @@
-# weilang
-java
